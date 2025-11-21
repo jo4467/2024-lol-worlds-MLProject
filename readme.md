@@ -1,3 +1,13 @@
+This project was used to predict the League of Legends 2024 World champion by analyzing game data for each participating team from the regular season.
+
+To make the prediction, we ran a total of 3 different ML models combined.
+1. Logistic Regression: Determine which features determine if a player is good in their role, allowing us to find the best players for each role
+2. Random Forest: Determine which role in a team is the most impactful, combined with the previous results, allow us to determine how good a team is based on how well                        their best players perform in the most impactful roles
+3. LSTM: Determine how the team performance has changed over the course of the year
+
+
+
+
 cs4641_ml_project/adjust_jng_dataset.py: Script used to clean and fix our data for processing  
 cs4641_ml_project/Data_processing.ipynb: Script to find what champions were played in what roles from the data and to produce team ranking from pre and post random forest data
 cs4641_ml_project/logistic_regression_ranking.py: Code for logistic regression model implementation and player ranking  
@@ -145,3 +155,4 @@ cs4641_ml_project/LSTM/LSTM.py : LSTM base model
 cs4641_ml_project/LSTM/evaluation_metrics_positive.txt : Error metrics
 cs4641_ml_project/LSTM/rank_teams.py : Ranking script
 cs4641_ml_project/LSTM/train.py : Model application on teams
+
