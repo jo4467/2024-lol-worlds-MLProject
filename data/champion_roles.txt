@@ -1,0 +1,139 @@
+Gwen: top, jng
+K'Sante: top, mid
+Poppy: top, sup, jng
+Kennen: top
+Jax: top, jng
+Akali: top, mid
+Renekton: top
+Udyr: top
+Aatrox: top, mid
+Gnar: top
+Gragas: top, mid
+Yone: top, mid
+Ornn: top, sup, bot
+Darius: top
+Olaf: top
+Riven: top
+Kayle: top
+Rumble: top, sup
+Sion: top, sup, mid
+Jayce: top, mid
+Varus: top, sup, mid, bot
+Mordekaiser: top
+Vladimir: top
+Fiddlesticks: top, jng
+Zac: top, jng, mid
+Yasuo: top, sup, mid, bot
+Karma: top, sup, mid
+Twisted Fate: top, mid, bot
+Camille: top, sup
+Smolder: top, mid, bot
+Malphite: top
+Tristana: top, mid, bot
+Volibear: top, jng
+Irelia: top
+Quinn: top
+Rek'Sai: top, jng
+Neeko: top, sup, mid
+Urgot: top
+Gangplank: top
+Ahri: top, mid
+Vayne: top, bot
+Ryze: top
+Skarner: top, jng
+Sett: top
+Sejuani: top, sup, jng
+Dr. Mundo: top
+Zeri: top, mid, bot
+Kalista: top, sup, bot
+Lucian: top, mid, bot
+Lee Sin: top, sup, jng, mid
+Aurora: top, mid
+Sylas: top, mid
+Lulu: top, sup
+Corki: top, mid, bot
+Nidalee: top, jng
+Nautilus: top, sup, jng, bot
+Nasus: top, mid
+Galio: top, sup, mid
+Garen: top, mid
+Wukong: top, jng
+Renata Glasc: sup
+Milio: sup
+Rell: sup, jng
+Blitzcrank: sup
+Senna: sup, bot
+Rakan: sup
+Bard: sup
+Nami: sup
+Braum: sup
+Zyra: sup, jng
+Ashe: sup, bot
+Seraphine: sup, bot
+Yuumi: sup
+Soraka: sup
+Sona: sup
+Tahm Kench: sup
+Pyke: sup
+Lux: sup
+Maokai: sup, jng
+Alistar: sup
+Taric: sup
+Leona: sup
+Ezreal: sup, mid, bot
+Heimerdinger: sup
+Hwei: sup, mid
+Thresh: sup
+Annie: sup, mid
+Veigar: sup, mid
+Janna: sup
+Shen: sup
+Zilean: sup
+Vi: jng
+Xin Zhao: jng
+Viego: jng
+Trundle: jng
+Nocturne: jng
+Jarvan IV: jng
+Bel'Veth: jng
+Lillia: jng
+Brand: jng
+Kindred: jng
+Ivern: jng
+Elise: jng
+Taliyah: jng, mid
+Graves: jng
+Shaco: jng
+Rengar: jng
+Kha'Zix: jng
+Diana: jng, mid
+Karthus: jng
+Shyvana: jng
+Morgana: jng
+Kayn: jng
+Amumu: jng
+LeBlanc: mid
+Azir: mid
+Orianna: mid
+Syndra: mid
+Ziggs: mid, bot
+Viktor: mid
+Kassadin: mid
+Aurelion Sol: mid
+Kai'Sa: mid, bot
+Vex: mid
+Malzahar: mid
+Sivir: mid, bot
+Zoe: mid
+Cassiopeia: mid
+Draven: mid, bot
+Caitlyn: mid, bot
+Tryndamere: mid
+Aphelios: bot
+Nilah: bot
+Jhin: bot
+Xayah: bot
+Jinx: bot
+Kog'Maw: bot
+Miss Fortune: bot
+Samira: bot
