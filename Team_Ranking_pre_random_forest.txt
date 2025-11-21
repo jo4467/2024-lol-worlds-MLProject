@@ -1,0 +1,21 @@
+Team scores ranking without Role Weights:
+1. Gen.G: 79434.944
+2. Hanwha Life Esports: 76323.125
+3. Bilibili Gaming: 75362.346
+4. Top Esports: 70301.498
+5. T1: 68658.926
+6. Dplus KIA: 68266.577
+7. LNG Esports: 66647.774
+8. Weibo Gaming: 60657.255
+9. G2 Esports: 59843.336
+10. Team Liquid: 56842.867
+11. Fnatic: 56459.536
+12. FlyQuest: 56171.398
+13. MAD Lions KOI: 52903.152
+14. 100 Thieves: 48017.092
+15. Fukuoka SoftBank HAWKS gaming: 37004.381
+16. PSG Talon: 36603.463
+17. GAM Esports: 34589.886
+18. Vikings Esports: 31583.344
+19. paiN Gaming: 26731.770
+20. Movistar R7: 24050.684
